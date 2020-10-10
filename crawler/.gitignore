@@ -1,0 +1,8 @@
+_test*.py
+*.html
+
+__pycache__
+
+venv
+dist
+dump
