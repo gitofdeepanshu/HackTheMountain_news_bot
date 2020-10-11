@@ -1,7 +1,7 @@
 # HackTheMountain_news_bot
 Our Prototype for HackTheMountain Hackathon
 
-## To run the bot on telegram, search for: News Source Checker Bot 
+## To run the bot follow this link: https://t.me/news_checker_bot 
 
 ## Our Telegram Bot:
   <table align="center">
