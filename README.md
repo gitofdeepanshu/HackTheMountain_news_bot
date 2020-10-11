@@ -15,6 +15,6 @@ Our Prototype for HackTheMountain Hackathon
     </tr>
   </table>
 
-Our bot takes news stories as input from users and runs it though our news database, which we build from crawling most trusted Indian News Sources on daily basis through a semantic analyser, which not just matches the news but also find factually relatable news. Right now we have over 100,000 articles in our Database, crawled and scrapped from the Times of India.
+Our bot takes news stories as input from users and runs it though our news database, which we build from crawling most trusted Indian News Sources on daily basis through a semantic analyser, which not just matches the news but also find factually relatable news. Right now we have over <b>100,000 articles</b> in our Database, crawled and scrapped from the Times of India.
 
 Then, the creditble source of the news, if found us conveyed to the user along with the link to the actual article. If no matching article is found, the bot returns with the message that no creditable news source was found and the news story might be fake.
